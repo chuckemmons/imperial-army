@@ -11,8 +11,8 @@
   <description>february code challenge</description>
   
   <properties>
-  	<junit.version>4.8.2</junit.version>
-  	<commons.collections.version>3.0</commons.collections.version>
+  	<junit.version>4.13.2</junit.version>
+  	<commons.collections.version>3.2.2</commons.collections.version>
   </properties>  
   
   <dependencies>
